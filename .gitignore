@@ -1,0 +1,6 @@
+fantasyCombat
+*.gch
+*.o
+*.pdf
+*.zip
+.DS_Store
