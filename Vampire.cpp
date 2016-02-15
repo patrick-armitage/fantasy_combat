@@ -5,6 +5,7 @@
 ** die class that were prototyped within the Vampire header file
 *******************************************************************************/
 
+#include <stdlib.h>
 #include <string>
 #include <iostream>
 #include "Vampire.hpp"
